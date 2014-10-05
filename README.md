@@ -1,4 +1,4 @@
-ACache
+AMocaccino
 ======
 
 Image caching for android os.
